@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "958500720122",
+    "project_id": "voice-chat-c9465",
+    "storage_bucket": "voice-chat-c9465.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958500720122:android:5bda95a712cfe705e9a843",
+        "android_client_info": {
+          "package_name": "com.danego.voicechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958500720122-rjh20r8kdovf2pghhd20f4s5r5eljfmj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxbJCp-MJ9fXhUagePIDjIhz6pyutNNGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958500720122-rjh20r8kdovf2pghhd20f4s5r5eljfmj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
